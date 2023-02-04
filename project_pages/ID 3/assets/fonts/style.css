@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'SWANSE_B';
+   font-display: swap;
+   src: url('SWANSE_B/font.TTF');
+}
+@font-face {
+   font-family: 'Inter-ExtraLight';
+   font-display: swap;
+   src: url('Inter-ExtraLight/font.ttf');
+}
