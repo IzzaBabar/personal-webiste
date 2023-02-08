@@ -1994,4 +1994,17 @@ a.thumb .caption .title, a.thumb .caption .tag {
   margin: .5rem 0;
 }
 
+.ballon-picture{
+  background-image: url("../img/project_images/izzalaptop.png")
+}
+
+@media (max-width:629px) {
+  .ballon-picture {
+    background-image: none;
+  }
+  .mobile-section{
+    padding: 5rem 0;
+  }
+}
+
 
